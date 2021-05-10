@@ -7,5 +7,5 @@ Nguyễn Trường Tuấn (Student1291663)
 Trương Trọng Tín (Student1295412)
 Huỳnh Quốc Trung (Student1291660) 
 ======================================= Documentations : https://github.com/ViktorTruongTuan/AmazingBridges-Group02/tree/master/Documentation ======================================= 
-Published website : https://viktortruongtuan.github.io/AmazingBridges-Group02/Source Code ======================================= 
+Published website : https://viktortruongtuan.github.io/AmazingBridge-Group02/SourceCode ======================================= 
 Thank you for visit our website.
